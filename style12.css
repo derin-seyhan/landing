@@ -1,0 +1,29 @@
+/* Colors and font */
+body {
+	background-color: #f1f3f4;
+	font-family: 'Roboto Slab', serif;
+	color: rgb(30,30,30);
+    font-size: 16px;
+    text-align: center;
+}
+h2, h3 {font-family: 'Open Sans', sans-serif;}
+
+h1 {
+	font-family: 'Montserrat Subrayada', sans-serif;
+	color: #2a7886
+}
+h2 {
+	color: #000000
+h3 {
+	color: #79bac1
+}
+a {
+	text-decoration: none;
+	color: #512b58;
+	font-size: 30px
+}
+}
+.list-inline {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+}
